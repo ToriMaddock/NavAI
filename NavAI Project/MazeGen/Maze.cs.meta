@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 042ff07a1b49ebd40aa35bc83e3314f0
+timeCreated: 1533045039
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cellPrefab: {instanceID: 0}
+  - passagePrefab: {fileID: 114486792343673960, guid: b634c6543be0c214892b077311568d80,
+      type: 2}
+  - wallPrefab: {fileID: 114491672542797984, guid: d919cdc3106fa9c4292d8f4b0f24681c,
+      type: 2}
+  - spawnPoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
